@@ -1,6 +1,6 @@
 # weather-app
 
-##Open folder in Visual Studio Code
+## Open folder in Visual Studio Code
 
 ## Project setup
 ```
